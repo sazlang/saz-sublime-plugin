@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[üçün (yerli ${20:i} = 0; ${20:i} < ${1:10}; ${20:i}++) {
+	${100:// gövdə...}
+}]]></content>
+	<tabTrigger>üçün</tabTrigger>
+	<scope>source.saz</scope>
+	<description>üçün (…) {…}</description>
+</snippet>

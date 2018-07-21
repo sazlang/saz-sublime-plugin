@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+sinif ${2:A}${3: < ${4:B}} {
+	${5:qurucu}(${6:arqument}) {
+		${0:// gövdə...}
+	}
+}
+]]></content>
+	<tabTrigger>sinif</tabTrigger>
+	<scope>source.saz</scope>
+    <description>sinif …</description>
+</snippet>

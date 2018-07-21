@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nəqədərki (${1:doğru}) {${0:$TM_SELECTED_TEXT}}]]></content>
+	<tabTrigger>nəqədərki</tabTrigger>
+	<scope>source.saz</scope>
+	<description>nəqədərki</description>
+</snippet>

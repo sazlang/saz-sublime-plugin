@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[əgər (${1:doğru}) {${0:$TM_SELECTED_TEXT}}]]></content>
+	<tabTrigger>əgər</tabTrigger>
+	<scope>source.saz</scope>
+	<description>əgər</description>
+</snippet>

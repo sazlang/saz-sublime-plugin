@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[işləv ${1:ad}(${2:arqumentlər}) {
+	${0:// gövdə...}
+}]]></content>
+	<tabTrigger>işləv</tabTrigger>
+	<scope>source.saz</scope>
+	<description>İşləv</description>
+</snippet>
